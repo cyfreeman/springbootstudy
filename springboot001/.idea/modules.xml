@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot002/springboot002.iml" filepath="$PROJECT_DIR$/../springboot002/springboot002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot003-web-restful/springboot003-web-restful.iml" filepath="$PROJECT_DIR$/springboot003-web-restful/springboot003-web-restful.iml" />
+    </modules>
+  </component>
+</project>
