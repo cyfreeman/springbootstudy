@@ -4,7 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../springboot002/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot003-web-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
       </list>
     </option>
   </component>
